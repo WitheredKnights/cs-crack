@@ -1,0 +1,18 @@
+"MasterServers"
+{
+"hl1"
+{
+"0"
+{
+			"addr"		"ms.gametracker.lt:27010"
+		}
+		"1"
+		{
+			"addr"		"ms.omonas.com:27010"
+		}
+		"2"
+		{
+			"addr"		"cs.rampagecs.com:27010"
+}
+}
+}
